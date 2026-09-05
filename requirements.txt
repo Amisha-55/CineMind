@@ -1,0 +1,12 @@
+# Project dependencies
+numpy
+pandas
+scikit-learn
+scipy
+joblib
+scikit-surprise
+fastapi
+uvicorn
+pydantic
+pyjwt
+bcrypt
