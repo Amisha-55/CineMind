@@ -37,7 +37,7 @@
 |:---:|:---:|:---:|
 | ![Onboarding Screenshot](docs/Profile.png) | ![Watchlist Screenshot](docs/Discover.png) | ![Discover Screenshot](docs/Moods.png) |
 
-> Replace the placeholder images above with real screenshots or a GIF walkthrough — drop them in a `/docs/screenshots` folder and update the paths.
+
 
 </div>
 
@@ -350,6 +350,6 @@ CineMind was designed to demonstrate practical understanding of:
 
 ### ⭐ If you find this project interesting, consider giving it a star!
 
-Made with 🎬 + 🧠 by [Your Name](https://github.com/yourusername)
+Made with 🎬 + 🧠 by [Amisha](https://github.com/Amisha-55)
 
 </div>
