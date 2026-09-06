@@ -31,11 +31,11 @@
 
 | Home / Discovery | Movie Details | Recommendations |
 |:---:|:---:|:---:|
-| ![Home Screenshot](https://via.placeholder.com/280x160.png?text=Home+Screen) | ![Details Screenshot](https://via.placeholder.com/280x160.png?text=Movie+Details) | ![Recs Screenshot](https://via.placeholder.com/280x160.png?text=Recommendations) |
+| ![Home Screenshot](docs/Home.png) | ![Details Screenshot](docs/Details.png) | ![Recs Screenshot](docs/Recommend.png) |
 
 | Onboarding | Watchlist | Explanation |
 |:---:|:---:|:---:|
-| ![Onboarding Screenshot](https://via.placeholder.com/280x160.png?text=Cold-Start+Onboarding) | ![Watchlist Screenshot](https://via.placeholder.com/280x160.png?text=My+List) | ![Explanation Screenshot](https://via.placeholder.com/280x160.png?text=Why+This+Movie%3F) |
+| ![Onboarding Screenshot](docs/Profile.png) | ![Watchlist Screenshot](docs/Discover.png) | ![Discover Screenshot](docs/Moods.png) |
 
 > Replace the placeholder images above with real screenshots or a GIF walkthrough — drop them in a `/docs/screenshots` folder and update the paths.
 
