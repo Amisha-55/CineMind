@@ -202,7 +202,7 @@ Provides rich movie metadata and content information, including:
 - Python
 - FastAPI
 - Uvicorn
-- SQLite
+- PostgreSQL
 - JWT Authentication
 
 </td>
@@ -295,7 +295,8 @@ The frontend will then be available through the Vite development server. 🎉
 Sensitive configuration should be stored in environment variables rather than committed to Git. Create a local `.env` file when required.
 
 ```env
-SECRET_KEY=your-secret-key
+DATABASE_URL=your-postgresql-connection-string
+JWT_SECRET_KEY=your-secret-key
 ```
 
 > `.env` files are intentionally excluded from version control.
