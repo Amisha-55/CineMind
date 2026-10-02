@@ -37,7 +37,7 @@
 |:---:|:---:|:---:|
 | ![Onboarding Screenshot](docs/Profile.png) | ![Watchlist Screenshot](docs/Discover.png) | ![Discover Screenshot](docs/Moods.png) |
 
-> Replace the placeholder images above with real screenshots or a GIF walkthrough — drop them in a `/docs/screenshots` folder and update the paths.
+
 
 </div>
 
