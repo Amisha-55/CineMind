@@ -10,3 +10,4 @@ uvicorn
 pydantic
 pyjwt
 bcrypt
+psycopg[binary]
