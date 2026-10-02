@@ -350,6 +350,6 @@ CineMind was designed to demonstrate practical understanding of:
 
 ### ⭐ If you find this project interesting, consider giving it a star!
 
-Made with 🎬 + 🧠 by [Your Name](https://github.com/yourusername)
+Made with 🎬 + 🧠 by [Amisha](https://github.com/Amisha-55)
 
 </div>
